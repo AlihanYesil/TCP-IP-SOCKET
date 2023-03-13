@@ -8,7 +8,6 @@
 #include <math.h>  // floor için
 #include <string>
 #include <sstream>
-#include "data.hpp"
 #define BOYUT 1024
 #define PORT 5000
 #define SERVER_ADDRESS "IP"
